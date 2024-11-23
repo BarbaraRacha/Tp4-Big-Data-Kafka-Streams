@@ -7,7 +7,7 @@
 <h2>
   1.  Configuration Kafka-Streams <br>
   2. Construction de flux Kafka <br>
-  3. Lecture des données météorologiques depuis le topic Kafka 'weather-data' <br>
+  3. Lecture des données depuis le topic 'weather-data' <br>
   4. Filtrer des données de température élevée <br>
 </h2>
 <img src="images/img_3.png">
