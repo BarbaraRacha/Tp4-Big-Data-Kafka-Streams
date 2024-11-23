@@ -22,9 +22,9 @@
 <img src="images/img_5.png" alt="img4" width="500">
 
 <h2>
-  8. Moyenne des températures et de taux d'humidité pour chaque station.
-  9. Publiez les résultats dans le topic Kafka 'station-averages'.
-  10. Démarrer Kafka-Streams
+  8. Moyenne des températures et de taux d'humidité pour chaque station. <br>
+  9. Publiez les résultats dans le topic Kafka 'station-averages'. <br>
+  10. Démarrer Kafka-Streams <br>
 </h2>
 <img src="images/img_6.png">
 
